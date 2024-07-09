@@ -9,7 +9,13 @@ This project was my submission to WWDC and won an award! 🎉
 - Enjoy your tea: Blow on the cup to cool it down and then take a sip (tilt your device to drink).
 - Calming sounds: Relax with the soothing sounds of lofi music and realistic tea brewing sounds.
 
+# Getting Started
+To run Tea Time, you'll need to open it in Xcode or run it in the Swift Playgrounds app on your iPad.
+
 # Instructions
+
+###### This game is designed to be played on an iPad in landscape mode.
+###### The microphone is required for the blow-on-your-tea mechanic.
 
 1. Block the rotation of your device: This will ensure the best playing experience and prevent accidental rotations while playing.
 2. Follow the on-screen instructions: The game guides you through each step with helpful hints and interactive dialogue.
