@@ -18,9 +18,13 @@ This project was my submission to WWDC and won an award! 🎉
 # Credits
 
 Assets and resources:
+
     @pch.vector
+    
     @macrovector
+    
     @gstudioimagen1
+    
 I modified and adapted these assets for my game.
 
 Music: Serendipity by Purrple Cat
